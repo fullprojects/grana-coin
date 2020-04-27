@@ -1,7 +1,7 @@
 Granacoin Core integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/granacoin-project/granacoin.svg?branch=master)](https://travis-ci.org/granacoin-project/granacoin)
+[![Build Status](https://travis-ci.org/fullprojects/grana-coin.svg?branch=master)](https://travis-ci.org/fullprojects/grana-coin)
 
 https://granacoin.com
 
